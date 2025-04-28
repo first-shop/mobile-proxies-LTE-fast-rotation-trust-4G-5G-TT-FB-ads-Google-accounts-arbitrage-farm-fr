@@ -1,4 +1,4 @@
-# 📡 Proxies Mobiles – [f-first.shop](https://f-first.shop)
+# 📡 Proxies Mobiles – [f-first.shop](https://f-first.shop/en)
 
 ## Qu'est-ce que les Proxies Mobiles?
 Les proxies mobiles donnent accès à des adresses IP de réseaux mobiles réels.  
@@ -58,16 +58,16 @@ Le prix dépend de :
 - Nombre de proxies
 - Utilisation de l'API ou du panneau
 
-💬 Pour obtenir un devis — [contactez-nous via le site](https://f-first.shop).
+💬 Pour obtenir un devis — [contactez-nous via le site](https://f-first.shop/en).
 
 ## 🛒 Comment acheter ?
-1. Rendez-vous sur [f-first.shop](https://f-first.shop).
+1. Rendez-vous sur [f-first.shop](https://f-first.shop/en).
 2. Choisissez "Proxies Mobiles".
 3. Sélectionnez le pays désiré.
 4. Envoyez votre demande ou contactez-nous par messagerie.
 
 ## 📞 Contact
-- Site Web : [f-first.shop](https://f-first.shop)
+- Site Web : [f-first.shop](https://f-first.shop/en)
 - Telegram SHOP : [@FS_First_Shop_bot](https://t.me/FS_First_Shop_bot)
 - Support Telegram : [@fb_first_support](https://t.me/fb_first_support)
 
